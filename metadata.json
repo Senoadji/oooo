@@ -1,0 +1,6 @@
+{
+  "name": "Jimpitan RT 06",
+  "description": "Aplikasi pencatatan kas jimpitan warga, presensi ronda malam & denda terakumulasi, pemantauan rumah kosong, dan buku kas warga RT 06 RW 06 Kelurahan Berkoh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
